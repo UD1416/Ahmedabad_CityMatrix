@@ -45,4 +45,5 @@ Run basic_pd in pd extended and adjust udp values accordingly and local IP addre
 This project has taken inspiration and understanding from MIT Media Lab projects at Senseable CityLab. 
 
 Check out Media Lab GITHub by Ryan, Link attached below, 
+https://github.com/popabczhang/CityMatrixGH
 
