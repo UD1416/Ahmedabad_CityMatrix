@@ -20,7 +20,7 @@ The gHowl is a component to be added to grasshopper
 Open grasshopper, go to files 
    -special folders 
    -components folder 
-   -place the component and the .dll file and unblock them from        properties 
+   -place the component and the .dll file and unblock them from properties 
 
 Step_03 
 
