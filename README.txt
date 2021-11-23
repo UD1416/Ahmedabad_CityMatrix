@@ -48,7 +48,7 @@ For Grasshopper and what ever app you may be running as for communication they a
 
 If the script runs slow cross check poll time for each component, or check network stability. 
 
-This project has taken inspiration and understanding from MIT Media Lab projects at Senseable CityLab. 
+This project has taken inspiration and understanding from MIT Media Lab projects at City Science Group. 
 
 Check out Media Lab GITHub by Ryan, Link attached below, 
 https://github.com/popabczhang/CityMatrixGH
